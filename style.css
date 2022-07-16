@@ -24,7 +24,7 @@ body{
    font-style: normal;
    font-weight: 800;
    font-size: 80px;
-   line-height: 70px;
+   line-height: 85px;
    letter-spacing: -0.025em;
 }
 
@@ -37,7 +37,7 @@ body{
    font-style: normal;
    font-weight: 400;
    font-size: 35px;
-   line-height: 58px;
+   line-height: 40px;
    color: #D5D4D8;
    margin-top: 10px;
 }
@@ -95,7 +95,7 @@ button {
       font-style: normal;
       font-weight: 800;
       font-size: 60px;
-      line-height: 60px;
+      line-height: 65px;
       letter-spacing: -0.025em;
    }
    
@@ -166,7 +166,7 @@ button {
       font-style: normal;
       font-weight: 800;
       font-size: 50px;
-      line-height: 50px;
+      line-height: 55px;
       letter-spacing: -0.025em;
    }
    
@@ -179,7 +179,7 @@ button {
       font-style: normal;
       font-weight: 400;
       font-size: 20px;
-      line-height: 15px;
+      line-height: 25px;
       color: #D5D4D8;
       margin-top: 10px;
    }
@@ -236,7 +236,7 @@ button {
       font-style: normal;
       font-weight: 800;
       font-size: 40px;
-      line-height: 40px;
+      line-height: 45px;
       letter-spacing: -0.025em;
    }
    
@@ -249,19 +249,19 @@ button {
       font-style: normal;
       font-weight: 400;
       font-size: 20px;
-      line-height: 15px;
+      line-height: 25px;
       color: #D5D4D8;
       margin-top: 10px;
    }
    
    button {
-      width: 200px;
+      width: 191px;
       height: 42px;
       color: #ffffff;
       font-family: 'Inter';
       font-style: normal;
       font-weight: 500;
-      font-size: 20px;
+      font-size: 16px;
       line-height: 24px;
       text-align: center;
       margin: 50px 0px 40px;
