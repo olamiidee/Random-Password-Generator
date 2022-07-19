@@ -3,10 +3,10 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
 
 let passwordLength = 12;
 
-let firstBox = document.getElementById("first-passowrd");
+let firstBox = document.getElementById("first-password");
 let secondBox = document.getElementById("second-password");
 
-function generate() {
+function generatePasswords() {
    let firstPassword = " "
    for (let i = 0; i < passwordLength; i++) {
       let randomPassword = Math.floor(Math.random() *characters.length);
